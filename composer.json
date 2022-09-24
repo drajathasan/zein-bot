@@ -2,8 +2,7 @@
     "name": "zein/bot",
     "type": "project",
     "require": {
-        "zein/http": "0.1.1",
-        "zein/database": "^1.1"
+        "zein/http": "0.1.1"
     },
     "license": "GPL-3.0",
     "autoload": {
