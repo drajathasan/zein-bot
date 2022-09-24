@@ -1,0 +1,21 @@
+{
+    "name": "zein/bot",
+    "type": "project",
+    "require": {
+        "zein/http": "0.1.1",
+        "zein/database": "^1.1"
+    },
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Zein\\Bot\\": "src/"
+        },
+        "files": ["src/Supports/botConfig.php"]
+    },
+    "authors": [
+        {
+            "name": "Drajat Hasan",
+            "email": "drajathasan20@gmail.com"
+        }
+    ]
+}
